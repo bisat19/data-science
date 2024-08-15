@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "question": "hello!",
+      "answer": "hi there"
+    },
+    {
+      "question": "what is the capital city of China?",
+      "answer": "Beijing is the capital city of China."
+    },
+    {
+      "question": "what is the center of our solar system?",
+      "answer": "The Sun is the center of our solar system."
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "How many bones are there in the human body?",
+      "answer": "206 bones"
+    },
+    {
+      "question": "false",
+      "answer": "The capital city of Australia is Canberra"
+    },
+    {
+      "question": "what is Canberra",
+      "answer": "it is the capital city of Australia"
+    }
+  ]
+}
